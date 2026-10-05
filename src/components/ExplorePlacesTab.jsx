@@ -6,7 +6,7 @@ import { DATA, BN, DIV_BN, ORDER } from "../data/bangladeshData";
 /* ------------------------------------------------------------------ */
 
 // Jodi tumi nijer host/CDN-e image rakho, ekhane base URL dao. Eg: "https://cdn.example.com"
-const CDN = "https://bd-maps.vercel.app/";
+const CDN = "https://bd-maps-react.vercel.app/";
 
 // Local path (public/assets/...) -> absolute path
 const localUrl = (img) =>
